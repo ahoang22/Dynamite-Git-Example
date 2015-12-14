@@ -1,4 +1,2 @@
 # Dynamite-Git-Example
-fddfsfdddddddddddddddddddddddddddddd
-hhhhhhhhhhi
-sfffffffffff
+fee
